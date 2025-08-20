@@ -1,4 +1,4 @@
-# [Felipe Mitchell Campos] <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fanime-sailor-moon-eat-eating-food-gif-12390158&psig=AOvVaw1UeN0HBrlTZRRE9XZvn_Dx&ust=1755734718094000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOCopNOLmI8DFQAAAAAdAAAAABAE" >
+# [Felipe Mitchell Campos] <img src="https://media1.tenor.com/m/wHrdMy11-h8AAAAd/anime-sailor-moon.gif" >
 
 Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
