@@ -2,9 +2,9 @@
 
 Eu sou <strong>Felipe Mitchell</strong>, <strong>Discente de Análise e Desenvolvimento de Sistemas | SENAC/PE - Aspirante a Dev Back-End | Python | SQL 📚 Professor Multidisciplinar | Geografia, Inglês & Espanhol | Graduado pelo IFPE, atuo re</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
+- 🎓 <strong>Graduado em Licenciatura em Geografia (IFPE) | Discente de Análise e Desenvolvimento de Sistemas (SENAC/PE)
+🔍 Pesquisador | Professor Multidisciplinar | Em Transição para a Área de Tecnologia</strong>
+- 📣 Nós podemos falar em: <strong>Inglês, Espanhol, Português e Francês </strong>
 
 <div align="center">
 
