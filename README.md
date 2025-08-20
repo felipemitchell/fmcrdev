@@ -1,4 +1,4 @@
-# [Felipe Mitchell Campos] <img src="https://media1.tenor.com/m/wHrdMy11-h8AAAAd/anime-sailor-moon.gif" width="60px">
+# Felipe Mitchell Campos <img src="https://media1.tenor.com/m/wHrdMy11-h8AAAAd/anime-sailor-moon.gif" width="60px">
 
 Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
