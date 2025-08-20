@@ -1,6 +1,6 @@
 # Felipe Mitchell Campos <img src="https://media1.tenor.com/m/wHrdMy11-h8AAAAd/anime-sailor-moon.gif" width="60px">
 
-Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Felipe Mitchell</strong>, <strong>Discente de Análise e Desenvolvimento de Sistemas | SENAC/PE - Aspirante a Dev Back-End | Python | SQL 📚 Professor Multidisciplinar | Geografia, Inglês & Espanhol | Graduado pelo IFPE, atuo re</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
 - 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
