@@ -1,10 +1,10 @@
-# Felipe Mitchell Campos <img src="https://media1.tenor.com/m/wHrdMy11-h8AAAAd/anime-sailor-moon.gif" width="60px">
+# Felipe Mitchell Campos <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-Eu sou <strong>Felipe Mitchell</strong>, <strong>Discente de Análise e Desenvolvimento de Sistemas | SENAC/PE - Aspirante a Dev Back-End | Python | SQL 📚 Professor Multidisciplinar | Geografia, Inglês & Espanhol | Graduado pelo IFPE re</strong> 👨🏻‍💻 
+Eu sou <strong>🎓 Discente de Análise e Desenvolvimento de Sistemas | SENAC/PE - Aspirante a Dev Back-End | Python | SQL 📚 Professor Multidisciplinar | Geografia, Inglês & Espanhol | Graduado pelo IFPE</strong> 👨🏻‍💻 
 
-- 🎓 <strong>Graduado em Licenciatura em Geografia (IFPE) | Discente de Análise e Desenvolvimento de Sistemas (SENAC/PE)
-🔍 Pesquisador | Professor Multidisciplinar | Em Transição para a Área de Tecnologia</strong>
-- 📣 Nós podemos falar em: <strong>Inglês, Espanhol, Português e Francês </strong>
+- 🚀 Atualmente estou aprendendo: <strong>Python e Java</strong> 
+- 💬 Pergunte-me sobre: <strong>Música, musculação, viagens e trocas culturais</strong>
+- 📣 Nós podemos falar em: <strong>Inglês, Espanhol, Francês e Português</strong>
 
 <div align="center">
 
@@ -12,9 +12,9 @@ Eu sou <strong>Felipe Mitchell</strong>, <strong>Discente de Análise e Desenvol
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
 
   <a href="#" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://br.linkedin.com/in/felipe-mitchell-campos-164324184)" /></a>
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[https://br.linkedin.com/in/felipe-mitchell-campos-164324184](https://br.linkedin.com/in/felipe-mitchell-campos-164324184)" /></a>
 
   <a href="#" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/felipemitchellc/"/></a>
 
 </div>
